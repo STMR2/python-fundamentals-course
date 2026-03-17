@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+message_correct: Correct! x starts at 10, then x = x + 5 updates it to 15.
+message_incorrect: Think again — Python evaluates the right side first, then assigns.
+files:
+- name: task.md
+  visible: true
+answers:
+- answer: "10"
+  is_correct: false
+  message: The second line updates x to 10+5=15. Variables can be reassigned!
+- answer: "15"
+  is_correct: true
+  message: ""
+- answer: "x + 5"
+  is_correct: false
+  message: Python evaluates x+5 first, then assigns that value to x.
+- answer: "Error"
+  is_correct: false
+  message: This is perfectly valid Python code!

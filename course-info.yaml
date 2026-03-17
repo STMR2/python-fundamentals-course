@@ -1,0 +1,9 @@
+type: marketplace
+title: Python Fundamentals Your First Steps
+language: English
+summary: A beginner Python course using JetBrains Academy Plugin.
+programming_language: Python
+environment: unittest
+content:
+  - Variables and Types
+yaml_version: 5

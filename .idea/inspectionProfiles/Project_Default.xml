@@ -1,0 +1,24 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+
+    <!-- PEP 8 style violations: WARNING — teaches good habits -->
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WARNING" enabled_by_default="true" />
+
+    <!-- Unused variable: WEAK WARNING — helpful but not blocking -->
+    <inspection_tool class="PyUnusedLocalVariableInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+
+    <!-- Type checker: OFF — too advanced for beginners -->
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+
+    <!-- Shadowing built-ins: WARNING — prevents naming mistakes like list=[] -->
+    <inspection_tool class="PyBuiltinVariablesInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+
+    <!-- Missing docstring: OFF — not needed at beginner level -->
+    <inspection_tool class="PyMissingOrEmptyDocstringInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+
+    <!-- Unreachable code: WARNING — helps spot logical errors -->
+    <inspection_tool class="PyUnreachableCodeInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+
+  </profile>
+</component>

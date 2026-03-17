@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+message_correct: Correct! The decimal point makes 3.0 a float.
+message_incorrect: Look closely — does 3.0 have a decimal point?
+files:
+- name: task.md
+  visible: true
+answers:
+- answer: "<class 'int'>"
+  is_correct: false
+  message: The decimal point makes it a float, not int.
+- answer: "<class 'float'>"
+  is_correct: true
+  message: ""
+- answer: "<class 'str'>"
+  is_correct: false
+  message: Without quotes, 3.0 is numeric, not a string.
+- answer: "<class 'number'>"
+  is_correct: false
+  message: There is no 'number' type in Python.
