@@ -1,20 +1,16 @@
 type: choice
-is_multiple_choice: true
-message_correct: Correct! my_variable and _private are both valid Python variable names.
-message_incorrect: Remember — no numbers at start, no reserved keywords!
+is_multiple_choice: false
+options:
+  - text: "user_name"
+    is_correct: false
+  - text: "2nd_player"
+    is_correct: true
+  - text: "_count"
+    is_correct: false
+  - text: "totalAmount"
+    is_correct: false
+message_correct: "Correct! Variables cannot start with a digit in Python."
+message_incorrect: "Incorrect. Check the naming rules for Python identifiers!"
 files:
-- name: task.md
-  visible: true
-answers:
-- answer: "my_variable"
-  is_correct: true
-  message: ""
-- answer: "2nd_value"
-  is_correct: false
-  message: Variable names cannot start with a number. Use second_value instead.
-- answer: "_private"
-  is_correct: true
-  message: ""
-- answer: "class"
-  is_correct: false
-  message: "'class' is a reserved Python keyword."
+  - name: task.md
+    visible: true

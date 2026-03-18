@@ -1,8 +1,10 @@
 # Quiz: Type Conversion
 
-What is the result of `type(3.0)`?
+What is the result of the following Python expression?
 
-- <class 'int'>
-- <class 'float'>
-- <class 'str'>
-- <class 'number'>
+type(str(100))
+
+- class 'int'
+- class 'str'
+- class 'float'
+- Error

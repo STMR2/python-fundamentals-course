@@ -1,20 +1,16 @@
 type: choice
 is_multiple_choice: false
-message_correct: Correct! The decimal point makes 3.0 a float.
-message_incorrect: Look closely — does 3.0 have a decimal point?
+options:
+  - text: "class 'int'"
+    is_correct: false
+  - text: "class 'str'"
+    is_correct: true
+  - text: "class 'float'"
+    is_correct: false
+  - text: "Error"
+    is_correct: false
+message_correct: "Excellent! The str() function converts the integer 100 into a string, so type() returns <class 'str'>."
+message_incorrect: "Not quite! Remember that Python evaluates functions from the inside out. Think about what str(100) does first."
 files:
-- name: task.md
-  visible: true
-answers:
-- answer: "<class 'int'>"
-  is_correct: false
-  message: The decimal point makes it a float, not int.
-- answer: "<class 'float'>"
-  is_correct: true
-  message: ""
-- answer: "<class 'str'>"
-  is_correct: false
-  message: Without quotes, 3.0 is numeric, not a string.
-- answer: "<class 'number'>"
-  is_correct: false
-  message: There is no 'number' type in Python.
+  - name: task.md
+    visible: true

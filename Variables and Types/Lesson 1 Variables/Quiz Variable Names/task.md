@@ -1,9 +1,8 @@
-# Quiz: Variable Names
+# Quiz: Variable Naming Rules
 
-Which of the following are **valid** Python variable names?
-*(Select all that apply)*
+Which of the following is **NOT** a valid variable name in Python?
 
-- my_variable
-- 2nd_value
-- _private
-- class
+- `user_name`
+- `2nd_player`
+- `_count`
+- `totalAmount`

@@ -1,13 +1,8 @@
 # Quiz: Variable Basics
 
-What is the output of the following code?
+What is the output of the following Python code?
+
 ```python
 x = 10
 x = x + 5
 print(x)
-```
-
-- 10
-- 15
-- x + 5
-- Error

@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="984fb0b4-c042-4a9c-b7e3-6a25b6befbb2" name="Changes" comment="" />
+    <list default="true" id="984fb0b4-c042-4a9c-b7e3-6a25b6befbb2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Kurs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Kurs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables and Types/Lesson 1 Variables/Code Create a Greeting/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Variables and Types/Lesson 1 Variables/Code Create a Greeting/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables and Types/Lesson 1 Variables/Code Create a Greeting/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Variables and Types/Lesson 1 Variables/Code Create a Greeting/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables and Types/Lesson 1 Variables/Code Create a Greeting/tests/test_task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Variables and Types/Lesson 1 Variables/Code Create a Greeting/tests/test_task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables and Types/Lesson 1 Variables/Code Temperature Converter/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Variables and Types/Lesson 1 Variables/Code Temperature Converter/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables and Types/Lesson 1 Variables/Quiz Type Conversion/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Variables and Types/Lesson 1 Variables/Quiz Type Conversion/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables and Types/Lesson 1 Variables/Quiz Type Conversion/task.md" beforeDir="false" afterPath="$PROJECT_DIR$/Variables and Types/Lesson 1 Variables/Quiz Type Conversion/task.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables and Types/Lesson 1 Variables/Quiz Variable Basics/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Variables and Types/Lesson 1 Variables/Quiz Variable Basics/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables and Types/Lesson 1 Variables/Quiz Variable Basics/task.md" beforeDir="false" afterPath="$PROJECT_DIR$/Variables and Types/Lesson 1 Variables/Quiz Variable Basics/task.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables and Types/Lesson 1 Variables/Quiz Variable Names/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Variables and Types/Lesson 1 Variables/Quiz Variable Names/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables and Types/Lesson 1 Variables/Quiz Variable Names/task.md" beforeDir="false" afterPath="$PROJECT_DIR$/Variables and Types/Lesson 1 Variables/Quiz Variable Names/task.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "STMR2"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/STMR2/python_fundamentals_course.git",
+    "accountId": "d9da6949-129d-4492-b273-3bf6aa951703"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Variables and Types/Lesson 1 Variables/Code Create a Greeting/task.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Variables and Types/Lesson 1 Variables/Code Create a Greeting/tests/test_task.py" root0="FORCE_HIGHLIGHTING" />
@@ -38,12 +65,14 @@
     "Edu.Yaml.Migrate": "true",
     "Edu.Yaml.Migrate.Propagatable": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Unittests in test_task.py.executor": "Run",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/Enes/Pictures/Kurs/Variables and Types/Lesson 1 Variables/What are Variables",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -68,11 +97,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1773783043340</updated>
-      <workItem from="1773783046465" duration="6736000" />
+      <workItem from="1773783046465" duration="10831000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Kurs$Unittests_in_test_task_py.coverage" NAME="Unittests in test_task.py Coverage Results" MODIFIED="1773792950600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Variables and Types/Lesson 1 Variables/Code String Operations" />
   </component>
 </project>
